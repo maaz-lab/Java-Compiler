@@ -7,7 +7,9 @@ Building a compiler who compile java from assembly language
 1. LEXICAL ANAYLIZER
 Lexical analysis is the first phase of a compiler. It takes the modified source code from language preprocessors that are written in the form of sentences.Lexical analysis breaks these syntaxes into a series of tokens, by removing any white spaces or comments in the source code.
 
-   |__ Firstly scanner remove all the whitespace and ignore the Comments and characters into one. with the help of 
+   |__ Firstly scanner remove all the whitespace and ignore the Comments and characters into one. with the help of regular languages and expressions, a convenient notation for specifying lexeme patterns.
+![image](https://github.com/maaz-lab/Java-Compiler/assets/134712721/d0dd5cb9-99dc-4b9a-8aac-b6bb6b794559)
+
    |__making token using source code
        	   |__then give to syntax analyzer
    
