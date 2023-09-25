@@ -11,7 +11,7 @@ Lexical analysis is the first phase of a compiler. It takes the modified source 
    |__making token using source code
        	   |__then give to syntax analyzer
    
-   !(<img width="542" alt="image" src="https://github.com/maaz-lab/Java-Compiler/assets/134712721/4f92ef38-71e4-4f36-b036-b9a2524e1c32">)
+   !<img width="542" alt="image" src="(https://github.com/maaz-lab/Java-Compiler/assets/134712721/4f92ef38-71e4-4f36-b036-b9a2524e1c32">)
 
 
 
