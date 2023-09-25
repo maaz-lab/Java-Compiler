@@ -5,8 +5,8 @@ Building a compiler who compile java from assembly language
 Phases of Compiler
 
 1. LEXICAL ANAYLIZER
-        |__ Firstly scanner remove all the whitespace and ignore the Comments
-     		|__making token using source code
+   |__ Firstly scanner remove all the whitespace and ignore the Comments
+   |__making token using source code
        	   |__then give to syntax analyzer
 
 2. SYNTAX ANALYZER
