@@ -36,7 +36,10 @@ Lexical analysis is the **first phase** of a compiler. It takes the modified sou
 
 
 ### SYMENTIC ANYALAZER
-  1. 
+The semantic analyzer uses the syntax tree and the information in the symbol table to check the source program for semantic consistency with the language definition. It also gathers type information and saves it in either the syntax tree or the symbol table, for subsequent use during intermediate-code generation
+
+<img width="649" alt="image" src="https://github.com/maaz-lab/Java-Compiler/assets/134712721/604c0a23-0408-4ecb-bf00-7c4b71d40da8">
+
 ### INTERMEDIATE CODE DEPENDENCY
 ### MACHINE INDENPENDENT CODE OPTIMIZER
 ### CODE GENERATOR
