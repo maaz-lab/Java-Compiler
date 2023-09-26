@@ -49,6 +49,10 @@ number. In Fig. 1.7, notice that the output of the semantic analyzer has an extr
 
 
 ### INTERMEDIATE CODE DEPENDENCY
+
+<img width="289" alt="image" src="https://github.com/maaz-lab/Java-Compiler/assets/134712721/8c6c058a-09f5-438e-9e9a-60f4e866c5ae">
+
+
 ### MACHINE INDENPENDENT CODE OPTIMIZER
 ### CODE GENERATOR
 ### MACHINE DEPENDENT CODE OPTIMIZER
