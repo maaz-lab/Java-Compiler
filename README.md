@@ -29,7 +29,8 @@ Lexical analysis is the **first phase** of a compiler. It takes the modified sou
 
   <img width="577" alt="image" src="https://github.com/maaz-lab/Java-Compiler/assets/134712721/9c23e4be-ea58-494b-913b-7378fe53ef47">
   
- **Ambiguity**
+  **Ambiguity**
+  
   <img width="662" alt="image" src="https://github.com/maaz-lab/Java-Compiler/assets/134712721/cf5751b5-2bc0-439f-b546-4823013f953b">
 
 
@@ -43,7 +44,10 @@ Lexical analysis is the **first phase** of a compiler. It takes the modified sou
 
 ### Symbol Tables
 Symbol tables are data structures that are used by compilers to hold information about source-program constructs.
-The information that symbol table contains identifier such as its character string (or lexeme) , its type, its position in storage, and any other relevant information.
+The information that symbol table contains identifier such as its character string (or lexeme) , its type, its position in storage, and any other relevant information. Variable names, defined constants, procedure and function names, literal constants and strings, source text labels, compiler-generated temporaries.
 
 ![image](https://github.com/maaz-lab/Java-Compiler/assets/134712721/29fd22e1-ed0e-47f7-8d18-4b98454f3009)
+
+
+![image](https://github.com/maaz-lab/Java-Compiler/assets/134712721/ca2200a2-815c-4714-8df1-31112b6dd221)
 
