@@ -20,7 +20,7 @@ Lexical analysis is the **first phase** of a compiler. It takes the modified sou
   <img width="627" alt="image" src="https://github.com/maaz-lab/Java-Compiler/assets/134712721/95d71171-4e29-423a-ac4e-d5f6d13d3a2d">
 
   1. It is used to specify the syntax of a language.
-  2. Its also called parser, which mainly focus to build parse tree upon the tokens which is given by **lexical anlyzer**.
+  2. Its also called **parser**, which mainly focus to build parse tree upon the tokens which is given by **lexical anlyzer**.
   -> **For example,** an if-else statement in Java can have the form
 
      <img width="269" alt="image" src="https://github.com/maaz-lab/Java-Compiler/assets/134712721/9662aae4-3193-4cea-8908-23aedf31696f">
@@ -28,6 +28,9 @@ Lexical analysis is the **first phase** of a compiler. It takes the modified sou
   <img width="463" alt="image" src="https://github.com/maaz-lab/Java-Compiler/assets/134712721/2e7cce70-18a4-4d24-bfb8-b827bfa8709e">
 
   <img width="577" alt="image" src="https://github.com/maaz-lab/Java-Compiler/assets/134712721/9c23e4be-ea58-494b-913b-7378fe53ef47">
+  
+  <img width="662" alt="image" src="https://github.com/maaz-lab/Java-Compiler/assets/134712721/cf5751b5-2bc0-439f-b546-4823013f953b">
+
 
 
 ### SYMENTIC ANYALAZER
