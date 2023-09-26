@@ -51,3 +51,6 @@ The information that symbol table contains identifier such as its character stri
 
 ![image](https://github.com/maaz-lab/Java-Compiler/assets/134712721/ca2200a2-815c-4714-8df1-31112b6dd221)
 
+
+<img width="532" alt="image" src="https://github.com/maaz-lab/Java-Compiler/assets/134712721/a8a3f933-c7ed-4225-81d4-fe14f73b4cfb">
+
