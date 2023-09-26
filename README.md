@@ -57,6 +57,8 @@ The information that symbol table contains identifier such as its character stri
 so lets go to the interesting part of symbol table, and that is how we organize our symbol tables,means what data structure algorithym we apply to manage data in symbol table.
 there are many data structures algorithym but write now i am focus on three data structure algorithym.
 1. **Linear List**
+
+
    ![image](https://github.com/maaz-lab/Java-Compiler/assets/134712721/7af6768b-aed4-4e22-acea-c1a4a8290d9b)
 
    Use a single large table to hold records. When a collision is encountered, use a simple technique (i.e., add a constant) to compute subsequent indices into the table until an empty slot is found or the table is full. If the constant is relatively prime to the table size, this, eventually, will check every slot in the table.
