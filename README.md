@@ -10,7 +10,8 @@ Lexical analysis is the first phase of a compiler. It takes the modified source 
 
    |__ Firstly scanner remove all the whitespace and ignore the Comments and characters into one. with the help of **regular languages** and **expressions**, a convenient notation for specifying lexeme patterns which is stored in **Symbols table**.
      
-   ![image](https://github.com/maaz-lab/Java-Compiler/assets/134712721/3102cc20-5cf4-4497-844d-ecb06d26fc21)
+  <img width="377" alt="image" src="https://github.com/maaz-lab/Java-Compiler/assets/134712721/f61abe71-6f43-4623-883e-87252de578dc">
+
 
    |__ making token using source code
    |__ then give to "syntax analyzer"
