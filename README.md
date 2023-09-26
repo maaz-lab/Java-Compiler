@@ -55,7 +55,8 @@ The information that symbol table contains identifier such as its character stri
 <img width="532" alt="image" src="https://github.com/maaz-lab/Java-Compiler/assets/134712721/a8a3f933-c7ed-4225-81d4-fe14f73b4cfb">
 
 so lets go to the interesting part of symbol table, and that is how we organize our symbol tables,means what data structure algorithym we apply to manage data in symbol table.
-there are many data structures algorithym but write now i am focus on three data structure algorithym.
+
+there are many data structures algorithym but write now i am focus on **three** data structure algorithym.
 1. **Linear List**
 
 
@@ -63,3 +64,10 @@ there are many data structures algorithym but write now i am focus on three data
 
    Use a single large table to hold records. When a collision is encountered, use a simple technique (i.e., add a constant) to compute subsequent indices into the table until an empty slot is found or the table is full. If the constant is relatively prime to the table size, this, eventually, will check every slot in the table.
 
+2. **Binary Tree**
+
+
+   ![image](https://github.com/maaz-lab/Java-Compiler/assets/134712721/f6f28522-1196-4366-827b-6f532af3569d)
+
+An unbalanced tree would have similar behaviour as a linear list (this could arise if symbols are entered in sorted order).
+A balanced tree (path length is roughly equal to all its leaves) would take O(log2n) probes per lookup (worst-case). Techniques exist for dynamically rebalancing trees.
