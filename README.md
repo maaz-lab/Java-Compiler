@@ -25,7 +25,7 @@ Lexical analysis is the **first phase** of a compiler. It takes the modified sou
 
   <img width="269" alt="image" src="https://github.com/maaz-lab/Java-Compiler/assets/134712721/9662aae4-3193-4cea-8908-23aedf31696f">
 
-<img width="463" alt="image" src="https://github.com/maaz-lab/Java-Compiler/assets/134712721/2e7cce70-18a4-4d24-bfb8-b827bfa8709e">
+  <img width="463" alt="image" src="https://github.com/maaz-lab/Java-Compiler/assets/134712721/2e7cce70-18a4-4d24-bfb8-b827bfa8709e">
 
 ### SYMENTIC ANYALAZER
 ### INTERMEDIATE CODE DEPENDENCY
