@@ -40,6 +40,12 @@ The semantic analyzer uses the syntax tree and the information in the symbol tab
 
 <img width="649" alt="image" src="https://github.com/maaz-lab/Java-Compiler/assets/134712721/604c0a23-0408-4ecb-bf00-7c4b71d40da8">
 
+Suppose that position, initial, and rate have been declared to be floating-point numbers, and that the lexeme 60 by itself forms an integer. The type checker in the semantic analyzer in Fig. 1.7 
+discovers that the operator * is applied to a floating-point number rate and an integer 60. In this case, the integer may be converted into a floating-point 
+number. In Fig. 1.7, notice that the output of the semantic analyzer has an extra node for the operator inttofloat, which explicitly converts its integer argument into a floating-point number
+
+<img width="248" alt="image" src="https://github.com/maaz-lab/Java-Compiler/assets/134712721/f9b1fc3d-3010-4595-acbf-402fe5059a7b">
+
 ### INTERMEDIATE CODE DEPENDENCY
 ### MACHINE INDENPENDENT CODE OPTIMIZER
 ### CODE GENERATOR
