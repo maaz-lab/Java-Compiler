@@ -8,11 +8,12 @@ Building a compiler who compile java from assembly language
 ### LEXICAL ANAYLIZER
 Lexical analysis is the first phase of a compiler. It takes the modified source code from language preprocessors that are written in the form of sentences.Lexical analysis breaks these syntaxes into a series of tokens, by removing any white spaces or comments in the source code.
 
-   |__ Firstly scanner remove all the whitespace and ignore the Comments and characters into one. with the help of **regular languages** and **expressions**, a convenient notation for specifying lexeme patterns which is stored in **Symbols table**.
+   1. Firstly scanner remove all the whitespace and ignore the Comments and characters into one. with the help of **regular languages** and **expressions**, a convenient notation for specifying lexeme patterns which is stored in **Symbols table**.
 
 <img width="542" alt="image" src="https://github.com/maaz-lab/Java-Compiler/assets/134712721/4f92ef38-71e4-4f36-b036-b9a2524e1c32">
-   |__ making token using source code
-   |__ then give to "syntax analyzer"
+   
+   2. making token using source code.
+   3. then give to "syntax analyzer"
    
 
 ### SYNTAX ANALYZER
@@ -20,7 +21,10 @@ Lexical analysis is the first phase of a compiler. It takes the modified source 
 
   1. It is used to specify the syntax of a language.
   2. Its also called parser, which mainly focus to build parse tree upon the tokens which is given by **lexical anlyzer**.
-  3. 
+  -> **For example,** an if-else statement in Java can have the form
+     <img width="269" alt="image" src="https://github.com/maaz-lab/Java-Compiler/assets/134712721/9662aae4-3193-4cea-8908-23aedf31696f">
+    <img width="463" alt="image" src="https://github.com/maaz-lab/Java-Compiler/assets/134712721/8dde3131-2089-40fd-9a7a-3f0d636555b9">
+
    
    
 ### SYMENTIC ANYALAZER
