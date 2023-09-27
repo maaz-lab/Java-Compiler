@@ -87,7 +87,7 @@ there are many data structures algorithym but write now i am focus on **three** 
 An unbalanced tree would have similar behaviour as a linear list (this could arise if symbols are entered in sorted order).
 A balanced tree (path length is roughly equal to all its leaves) would take O(log2n) probes per lookup (worst-case). Techniques exist for dynamically rebalancing trees.
 
-3. **HashTable**
+3. **HashTable** (i am using this data structure in this compiler)
 
 
    ![image](https://github.com/maaz-lab/Java-Compiler/assets/134712721/38856840-eec4-490c-95a9-d706fb38a777)
